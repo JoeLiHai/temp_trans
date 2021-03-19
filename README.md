@@ -1,1 +1,1 @@
-# temp_trans
+# This is a program that converts Celsius to Fahrenheit.
